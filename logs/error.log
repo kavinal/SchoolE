@@ -1,0 +1,5 @@
+2015-06-06 10:42:28 save entity com.xtu.web.pojo.User@6e7fa4e0 failed,error message:No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here
+2015-06-06 10:46:00 save entity com.xtu.web.pojo.User@7e21a6cc failed,error message:No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here
+2015-06-06 10:46:38 save entity com.xtu.web.pojo.User@534ddbc5 failed,error message:No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here
+2015-06-06 10:47:50 save entity com.xtu.web.pojo.User@19e0b0ed failed,error message:No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here
+2015-06-06 10:48:59 save entity com.xtu.web.pojo.User@64dc0427 failed,error message:No Hibernate Session bound to thread, and configuration does not allow creation of non-transactional one here
